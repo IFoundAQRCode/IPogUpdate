@@ -1,0 +1,13 @@
+{
+  "versionCode": 2026092402,
+  "versionName": "0.431.0",
+  "file": "rebuilt.apk.enc",
+  "parts": [
+    "rebuilt.apk.enc.001",
+    "rebuilt.apk.enc.002",
+    "rebuilt.apk.enc.003"
+  ],
+  "sha256": "7b108602f700b82e5f73c0118aeb9c36a20ab1ad959b18e3c8f869834c896598",
+  "publishedAt": "2026-10-10T23:55:42Z",
+  "alg": "RSA-OAEP-SHA256+AES-256-GCM"
+}
